@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.1",
   "url": "https://github.com/littleq2705/DJ-CutCost/releases/latest/download/CutCost.Solution.exe",
-  "notes": "단가표 엑셀 내보내기 추가(내보내기→수정→가져오기 왕복) / 일괄 조정 / 중앙 동기화"
+  "notes": "자동검증 BOM치수 오탐 수정(보조선 부풀림) — 외형/복사본 이중 측정"
 }
