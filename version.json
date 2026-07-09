@@ -1,5 +1,5 @@
 {
-     "version": "1.0.0",
-     "url": "https://github.com/littleq2705/DJ-CutCost/releases/latest/download/CutCost.Solution.exe",
-     "notes": "최초 배포"
-   }
+  "version": "1.0.1",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/latest/download/CutCost.Solution.exe",
+  "notes": "자동검증 오류 수정: 둥근 끝단 부품이 정상인데 NG로 표시되던 문제 해결"
+}
