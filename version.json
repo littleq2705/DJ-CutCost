@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.3.0",
   "url": "https://github.com/littleq2705/DJ-CutCost/releases/latest/download/CutCost.Solution.exe",
-  "notes": "업데이트 오류(Invalid class) 수정 / 화면에 버전 표시 / 비고 문자 노란색"
+  "notes": "단가표 엑셀 내보내기 추가(내보내기→수정→가져오기 왕복) / 일괄 조정 / 중앙 동기화"
 }
