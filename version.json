@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "url": "https://github.com/littleq2705/DJ-CutCost/releases/latest/download/CutCost.Solution.exe",
-  "notes": "화면에 버전 번호 표시 추가 / 비고 문자 노란색 변경"
+  "notes": "업데이트 오류(Invalid class) 수정 / 화면에 버전 표시 / 비고 문자 노란색"
 }
