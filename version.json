@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
+  "version": "1.5.0",
   "url": "https://github.com/littleq2705/DJ-CutCost/releases/latest/download/CutCost.Solution.exe",
-  "notes": "자동검증 BOM치수 오탐 수정(보조선 부풀림) — 외형/복사본 이중 측정"
+  "notes": "차용 폐합 기능 — 점선 등 비실선 외형을 확인 팝업 후 절단선으로 승격해 폐곡선 완성. BOM추출에도 적용"
 }
