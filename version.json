@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "url": "https://github.com/littleq2705/DJ-CutCost/releases/latest/download/CutCost.Solution.exe",
-  "notes": "중복선 통합 — 겹쳐 그려진 선을 하나로 합쳐 인식·출력(도면기초/원가분석 공통). 피어싱 시간 반영. 리포트 결재란·납품조건 추가"
+  "notes": "BOM추출 수정 — 개구부가 큰 부품에서 치수가 내부 창 크기로 잘못 잡히던 오류 해결"
 }
