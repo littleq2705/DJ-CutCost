@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "url": "https://github.com/littleq2705/DJ-CutCost/releases/latest/download/CutCost.Solution.exe",
-  "notes": "피어싱(관통) 시간 반영 — 부품별 외곽+내부 폐곡선 수를 세어 두께·설비별 피어싱 시간을 절단시간에 합산. 리포트 상단 결재란·납품조건 항목 추가"
+  "notes": "중복선 통합 — 겹쳐 그려진 선을 하나로 합쳐 인식·출력(도면기초/원가분석 공통). 피어싱 시간 반영. 리포트 결재란·납품조건 추가"
 }
