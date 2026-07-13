@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "url": "https://github.com/littleq2705/DJ-CutCost/releases/latest/download/CutCost.Solution.exe",
-  "notes": "차용 폐합 기능 — 점선 등 비실선 외형을 확인 팝업 후 절단선으로 승격해 폐곡선 완성. BOM추출에도 적용"
+  "notes": "리포트 상단 설계(산소/레이저) 수기 확인표 추가 · 체크시트 납품조건(상차도/도착도) 항목 추가"
 }
