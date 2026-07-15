@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
+  "version": "1.9.2",
   "url": "https://github.com/littleq2705/DJ-CutCost/releases/latest/download/CutCost.Solution.exe",
-  "notes": "BOM추출 수정 — 개구부가 큰 부품에서 치수가 내부 창 크기로 잘못 잡히던 오류 해결"
+  "notes": "BOM추출→변환 앵커 연동 + MIRROR 도형 누락 수정 + 개구부 부품 치수 오추출(A140) 병합"
 }
