@@ -1,5 +1,5 @@
 {
   "version": "1.21.1",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.21.1/CutCostSolution.exe",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.21.1/CutCost Solution.exe",
   "notes": "도면기초작업 메뉴 통합\n- 중복되던 [도면기초작업] 메뉴 삭제\n- [도면.BOM생성] → [도면 기초작업] 으로 이름 변경\n- 시작 시 페이지 생성 감소로 실행 속도 소폭 개선"
 }
