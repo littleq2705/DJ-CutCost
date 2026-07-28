@@ -1,5 +1,5 @@
 {
-  "version": "1.18.0",
-  "notes": "미리보기 줌/팬 성능 개선 · 누락단가 팝업 수정 · 단가 중앙반영 수동화",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.18.0/CutCost.Solution.exe"
+  "version": "1.21.0",
+  "notes": "고철 판매단가 직접 입력 추가 (기본 500원/kg · 고철수익과 내경 공제·반납에 함께 적용)\n내경 공제·반납 원가 반영 + 내경 후보 미리보기 클릭 선택\n고철수익 금액은 항상 표시(원가 반영은 체크로 선택)",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.21.0/CutCost.Solution.exe"
 }
