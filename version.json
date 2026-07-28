@@ -1,5 +1,5 @@
 {
-  "version": "1.21.0",
-  "notes": "고철 판매단가 직접 입력 추가 (기본 500원/kg · 고철수익과 내경 공제·반납에 함께 적용)\n내경 공제·반납 원가 반영 + 내경 후보 미리보기 클릭 선택\n고철수익 금액은 항상 표시(원가 반영은 체크로 선택)",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.21.0/CutCost.Solution.exe"
+  "version": "1.21.1",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.21.1/CutCostSolution.exe",
+  "notes": "도면기초작업 메뉴 통합\n- 중복되던 [도면기초작업] 메뉴 삭제\n- [도면.BOM생성] → [도면 기초작업] 으로 이름 변경\n- 시작 시 페이지 생성 감소로 실행 속도 소폭 개선"
 }
