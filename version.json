@@ -1,5 +1,5 @@
 {
-  "version": "1.9.2",
+  "version": "1.15.2",
   "url": "https://github.com/littleq2705/DJ-CutCost/releases/latest/download/CutCost.Solution.exe",
-  "notes": "BOM추출→변환 앵커 연동 + MIRROR 도형 누락 수정 + 개구부 부품 치수 오추출(A140) 병합"
+  "notes": "통합화면 도면:BOM표 비율 6:4로 변경"
 }
