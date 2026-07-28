@@ -1,5 +1,5 @@
 {
   "version": "1.18.0",
-  "notes": "미리보기 줌/팬 성능 개선(A160) · 조작 중 문자는 계속 표시(A161) · 누락단가 팝업 수정(A158) · 단가 중앙반영 수동화(A159)",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.18.0/CutCost.exe"
+  "notes": "미리보기 줌/팬 성능 개선 · 누락단가 팝업 수정 · 단가 중앙반영 수동화",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.18.0/CutCost.Solution.exe"
 }
