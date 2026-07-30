@@ -1,5 +1,5 @@
 {
-  "version": "1.22.0",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.22.0/CutCost.Solution.exe",
-  "notes": "[A170] 절단원가분석 화면 성능 개선\n\n· 도면분석 결과 표: 셀을 경량 위젯으로 교체 → 스크롤이 부드러워집니다.\n· 설비/토치 칸: 이제 칸을 '클릭'하면 선택 목록이 열립니다.\n  (행마다 드롭다운을 미리 만들어 두던 방식을 없앴습니다)\n· 설비/토치를 바꿔도 화면 전체를 다시 그리지 않고 해당 칸만 즉시 바뀝니다.\n· 도넛/원가누적 차트를 가벼운 그래픽으로 교체.\n· 내경 후보 계산 결과를 재사용하도록 개선."
+  "version": "1.23.2",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.23.2/CutCost.Solution.exe",
+  "notes": "견적서 .xls Excel 자동 재저장(ERP 업로드) + 실패 원인 표시. BOM라벨 별표(*) 형식, 스플라인 외형 인식 포함."
 }
