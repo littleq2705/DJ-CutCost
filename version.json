@@ -1,5 +1,5 @@
 {
-  "version": "1.23.2",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.23.2/CutCost.Solution.exe",
-  "notes": "견적서 .xls Excel 자동 재저장(ERP 업로드) + 실패 원인 표시. BOM라벨 별표(*) 형식, 스플라인 외형 인식 포함."
+  "version": "1.23.3",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.23.3/CutCost.Solution.exe",
+  "notes": "견적서 .xls Excel 자동 재저장(ERP 업로드) — 임시파일 잔존 문제 해결. BOM라벨 별표(*) 형식, 스플라인 외형 인식 포함."
 }
