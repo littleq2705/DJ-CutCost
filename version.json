@@ -1,5 +1,5 @@
 {
-  "version": "1.23.3",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.23.3/CutCost.Solution.exe",
-  "notes": "견적서 .xls Excel 자동 재저장(ERP 업로드) — 임시파일 잔존 문제 해결. BOM라벨 별표(*) 형식, 스플라인 외형 인식 포함."
+  "version": "1.23.4",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.23.4/CutCost.Solution.exe",
+  "notes": "[A176] 두께 소수점 유지\n- 3.2T, 4.5T 등 소수 두께가 3T, 4T로 바뀌던 문제 해결\n- 패킹리스트 치수 표기 정확화 (3.2T*1000*2000)\n- 개당중량/전체중량이 실제 두께로 재계산 (3.2T 기준 약 6% 상향)\n- 절단원가분석 결과표·네스팅 그룹표에도 소수 두께 표시\n- 정수 두께 부품은 기존과 완전히 동일 (변화 없음)"
 }
