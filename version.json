@@ -1,5 +1,5 @@
 {
-  "version": "1.23.4",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.23.4/CutCost.Solution.exe",
-  "notes": "[A176] 두께 소수점 유지\n- 3.2T, 4.5T 등 소수 두께가 3T, 4T로 바뀌던 문제 해결\n- 패킹리스트 치수 표기 정확화 (3.2T*1000*2000)\n- 개당중량/전체중량이 실제 두께로 재계산 (3.2T 기준 약 6% 상향)\n- 절단원가분석 결과표·네스팅 그룹표에도 소수 두께 표시\n- 정수 두께 부품은 기존과 완전히 동일 (변화 없음)"
+  "version": "1.25.2",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.25.2/CutCost.Solution.exe",
+  "notes": "네스팅-공유절단 기능 추가 (원가반영), 미리보기 화면영역 보완"
 }
