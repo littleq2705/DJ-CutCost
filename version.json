@@ -1,5 +1,5 @@
 {
-  "version": "1.25.2",
+  "version": "1.26.0",
   "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.26.0/CutCost.Solution.exe",
   "notes": "v1.26.0 (A185)\n- 녹색 문자(TEXT/MTEXT)도 마킹으로 인식하여 결과 도면에 유지\n- 마킹 문자는 ROMANS(단선) 폰트로 변환\n- 마킹 문자의 획 길이를 절단원가분석 '마킹길이'에 반영"
 }
