@@ -1,5 +1,5 @@
 {
-  "version": "1.31.0",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.31.0/CutCost.Solution.exe",
-  "notes": "내경반납 기준면적 입력추가, 공유절단 원가반영체크기능추가, 절단속고+자재단가직접입력 추가, 체크시트 직전값 재사용기능 추가, 도착도 운반비 반영 추가, 최종원가에 단가표시 추가"
+  "version": "1.32.0",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.32.0/CutCost.Solution.exe",
+  "notes": "녹색문자 마킹으로 인정"
 }
