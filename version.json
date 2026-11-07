@@ -1,5 +1,5 @@
 {
-  "version": "1.42.0",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.42.0/CutCost.Solution.exe",
-  "notes": "두께보다 작은 홀 붉은색으로 표시"
+  "version": "1.42.1",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.42.1/CutCost.Solution.exe",
+  "notes": "Bom수정 후 변환실행 시 수정하지않은 품목은 앵커(도면위치정보)를 유지하도록 수정"
 }
