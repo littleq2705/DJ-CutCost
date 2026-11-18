@@ -1,5 +1,5 @@
 {
-  "version": "1.44.0",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.44.0/CutCost.Solution.exe",
-  "notes": "'문자 외곽선' 메뉴 신설: 문자 도면(DXF)을 선택하면 글자 외곽선+연결바를 합친 레이저 절단용 DXF(_outline.dxf) 자동 생성\n- 결과는 LINE·ARC 개체만 출력"
+  "version": "1.47.0",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.47.0/CutCost.Solution.exe",
+  "notes": "'자동네스팅 및 패킹리스트 출력기능 추가 (for 지덕이엔지 外)"
 }
