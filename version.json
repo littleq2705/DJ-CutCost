@@ -1,5 +1,5 @@
 {
-  "version": "1.54.1",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.54.1/CutCost.Solution.exe",
-  "notes": "패킹리스트 출력시 파일별로 일련번호부여 및 QR적용"
+  "version": "1.54.2",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.54.2/CutCost.Solution.exe",
+  "notes": "패킹1개로 여러개의 수주 QR인식기능 추가"
 }
