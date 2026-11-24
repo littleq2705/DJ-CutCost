@@ -1,5 +1,5 @@
 {
-  "version": "1.54.3",
-  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.54.3/CutCost.Solution.exe",
-  "notes": "패킹리스트 여백 조정"
+  "version": "1.55.0",
+  "url": "https://github.com/littleq2705/DJ-CutCost/releases/download/v1.55.0/CutCost.Solution.exe",
+  "notes": "BOM추출시 단위(kg, EA 설정가능, 기본은kg), 저장되는 엑셀BOM의 단가구분(O열)에 단위표시"
 }
